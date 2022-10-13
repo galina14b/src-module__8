@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://galina14b.github.io/goIT-module8",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /galina14b/src-module-8"
+    "build": "parcel build src/*.html --public-url goIT-module8/"
   },
   "repository": {
     "type": "git",
